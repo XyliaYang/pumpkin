@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">pumpkin</string>
+
+
+    <string-array name="number">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+
+
+    </string-array>
+
+    <string-array name="cycle">
+        <item>分</item>
+        <item>时</item>
+        <item>天</item>
+        <item>周</item>
+        <item>月</item>
+    </string-array>
+
+    <string-array name="setting">
+        <item>分享应用</item>
+        <item>使用说明</item>
+        <item>意见反馈</item>
+
+    </string-array>
+
+    <string-array name="shape_cycle">
+        <item>秒</item>
+        <item>分</item>
+
+
+    </string-array>
+
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day view</string>
+    <string name="action_three_day_view">3 day view</string>
+    <string name="action_week_view">Week view</string>
+    <string name="title_activity_basic">Basic Example</string>
+    <string name="title_activity_asynchronous">Asynchronous Events</string>
+    <string name="async_error">Could not download events from the internet</string>
+</resources>

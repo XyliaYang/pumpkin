@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AAA_project\android_demo\AS_project\Pumpkin2\library\assets"/><source path="E:\AAA_project\android_demo\AS_project\Pumpkin2\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AAA_project\android_demo\AS_project\Pumpkin2\library\src\debug\assets"/></dataSet></merger>
